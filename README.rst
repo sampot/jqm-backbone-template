@@ -2,10 +2,8 @@ Simple JQM and Backbone Template Project
 ========================================
 
 Most projects using JQuery mobile and Backbone frameworks together also use
-`RequireJS` which is overkill for simple projects.
-
-This template project is for those who want a simpler configuration but still need
-Backbone for the application structure.
+`RequireJS` which is overkill for simple projects. This template project is for those
+who want a simpler configuration but yet need Backbone for the application structure.
 
 Dependencies
 ------------
@@ -15,6 +13,8 @@ Following libraries are used:
 #. JQuery Mobile: 1.4.5
 #. Backbone: 1.2.3
 #. Lodash: 3.10.1
+
+All the dependencies are already included.
 
 Credits:
 --------
